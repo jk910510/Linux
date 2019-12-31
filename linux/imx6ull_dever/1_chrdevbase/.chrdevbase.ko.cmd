@@ -1,0 +1,1 @@
+cmd_/home/jk/linux/imx6ull_device/1_chrdevbase/chrdevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/jk/linux/imx6ull_device/1_chrdevbase/chrdevbase.ko /home/jk/linux/imx6ull_device/1_chrdevbase/chrdevbase.o /home/jk/linux/imx6ull_device/1_chrdevbase/chrdevbase.mod.o
